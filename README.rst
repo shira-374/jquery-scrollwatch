@@ -3,7 +3,7 @@ ScrollWatch
 
 jQuery plugin for determining active sections on the page based on scrolling.
 
-`Online demo (latest version) <https://raw.githack.com/Shira-3749/jquery-scrollwatch/master/demo.html>`_
+`Online demo (latest version) <https://raw.githack.com/shira-374/jquery-scrollwatch/master/demo.html>`_
 
 .. contents::
    :depth: 2
@@ -22,12 +22,6 @@ Requirements
 ************
 
 jQuery 1.9.0 or newer
-
-
-Browser support
-***************
-
-Tested in Mozilla Firefox, Google Chrome, Safari, Opera and MSIE 7+.
 
 
 Usage
